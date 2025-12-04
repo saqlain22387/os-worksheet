@@ -1,0 +1,21 @@
+Muhammad Saqlain - NanoOS Setup
+
+Need:
+- NASM
+- i686-elf-gcc
+- QEMU
+
+Install and add to PATH.
+
+Start:
+run-direct.bat
+
+NanoOS runs in QEMU. Shell commands:
+- out <text>
+- clr
+- hlp
+- ver
+- bye
+
+Close QEMU to exit.
+

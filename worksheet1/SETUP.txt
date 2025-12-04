@@ -1,0 +1,15 @@
+Muhammad Saqlain - Worksheet 1
+
+Setup:
+Install NASM and GCC, add to PATH
+
+Usage:
+run.bat build
+run.bat all
+
+Tasks:
+task1: 77 + 23
+task1_2: user input addition
+task2_welcome: greeting program
+task2_array: array operations
+task2_range: range sum
